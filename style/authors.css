@@ -48,13 +48,13 @@ main {
     max-width : 100%;
 }
 
-.author1-profile {
+.author-profile {
     display: flex;
     align-items: right;
     gap: 24px; 
     margin-bottom: 32px; 
 }
 
-.author1-info {
+.author-info {
     flex: 1;
 }
