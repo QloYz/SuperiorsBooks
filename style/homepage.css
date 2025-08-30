@@ -3,21 +3,21 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-image: url('/images/background1.jpg');
+    background-image: url('../images/background1.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    color: white;
+    color: rgb(30, 23, 23);
 }
 
 nav {
-    background-color: rgba(0,0,0,0.7);
+    background-color: rgba(0, 0, 0, 0.74);
     padding: 10px;
     text-align: center;
 }
 
 nav a {
-    color: white;
+    color: rgba(247, 5, 5, 0.612);
     margin: 0 10px;
     text-decoration: none;
     font-weight: bold;
