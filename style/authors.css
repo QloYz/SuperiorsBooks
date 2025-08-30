@@ -34,3 +34,17 @@ main {
     background-color: rgba(0,0,0,0.5);
     border-radius: 10px;
 }
+
+.author-img1 {
+    width : 500px;
+    height : auto;
+    max-width : 100%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+}
+
+.author-img2 {
+    width: 500px;
+    height : auto;
+    max-width : 100%;
+    filter: grayscale(80%)  brightness(1.2);
+}
