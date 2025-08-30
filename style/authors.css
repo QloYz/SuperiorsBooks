@@ -1,0 +1,36 @@
+body {
+    font-family: 'Cinzel', serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/background1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: rgb(221, 217, 217);
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.74);
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: rgba(247, 5, 5, 0.612);
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 10px;
+}
