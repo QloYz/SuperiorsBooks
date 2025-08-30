@@ -50,7 +50,7 @@ main {
 
 .author1-profile {
     display: flex;
-    align-items: center;
+    align-items: right;
     gap: 24px; 
     margin-bottom: 32px; 
 }
