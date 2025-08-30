@@ -45,3 +45,31 @@ main img:hover {
     transform: scale(1.05);
     cursor: pointer;
 }
+
+.book-container {
+    display: flex;           
+    align-items: flex-start; 
+    gap: 30px;               
+    max-width: 1000px;       
+    margin: 20px auto;       
+}
+
+.book-cover {
+    width: 300px;            
+    border: 2px solid white;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+.book-cover:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.welcome-text {
+    color: white;           
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    max-width: 600px;
+}
