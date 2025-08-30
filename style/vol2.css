@@ -1,0 +1,38 @@
+body {
+    font-family: 'Cinzel', serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/background1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: rgb(221, 217, 217);
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.74);
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: rgba(247, 5, 5, 0.612);
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.coming-soon {
+    font-size: 3rem;
+    color: #ff3333;
+    text-align: center;
+    margin-top: 60px;
+    letter-spacing: 0.2em;
+    font-weight: bold;
+    text-shadow: 2px 2px 8px #000;
+}
