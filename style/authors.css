@@ -54,3 +54,7 @@ main {
     gap: 24px; 
     margin-bottom: 32px; 
 }
+
+.author1-info {
+    flex: 1;
+}
