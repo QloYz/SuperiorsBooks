@@ -43,3 +43,7 @@ main {
     display: block;
     margin: 0 auto;
 }
+
+.book-details {
+    text-align: center;
+}
