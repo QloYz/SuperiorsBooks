@@ -73,3 +73,36 @@ main img:hover {
     line-height: 1.6;
     max-width: 600px;
 }
+
+.main-layout {
+    display: flex;
+    gap: 32px;
+}
+
+.main-content {
+    flex: 2;
+}
+
+.sidebar {
+    flex: 1;
+    background: rgba(0,0,0,0.6);
+    padding: 20px;
+    border-radius: 10px;
+    color: #fff;
+    min-width: 220px;
+    max-width: 300px;
+}
+
+.sidebar h3 {
+    margin-top: 0;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar li {
+    margin-bottom: 16px;
+    font-style: italic;
+}
