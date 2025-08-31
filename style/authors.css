@@ -58,3 +58,7 @@ main {
 .author-info {
     flex: 1;
 }
+
+main h1 {
+    text-align : center;
+}
